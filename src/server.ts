@@ -599,8 +599,8 @@ async function loadSection(section) {
 app.get("/", (c) =>
     c.json({
         status: 200,
-        provider: "Tatakai",
-        message: "🎌 Welcome to Tatakai API!",
+        provider: "land ka api",
+        message: " Welcome to land ka API!",
         version: pkgJson.version,
         endpoints: {
             hianime: `${BASE_PATH}/hianime`,
