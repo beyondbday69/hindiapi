@@ -296,7 +296,7 @@ LLM Context
                     <button onclick="toggleMobileNav()" class="p-2 text-zinc-400">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"> <line x1="3" y1="12" x2="21" y2="12" /> <line x1="3" y1="6" x2="21" y2="6" /> <line x1="3" y1="18" x2="21" y2="18" /> </svg>
                             </button>
-                            <span class="font-bold text-sm tracking-tight"> Tatakai Docs </span>
+                            <span class="font-bold text-sm tracking-tight"> land ka Docs </span>
                                 <div class="w-10"> </div>
                                     </header>
 
